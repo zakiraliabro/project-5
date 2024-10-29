@@ -1,0 +1,27 @@
+#hidden-id{
+border: none;
+background-color: white;
+}
+h1{
+text-align: center;
+}
+#hidden-space{
+    width: 15px;
+    background-color: white;
+    border: none;
+}
+td{
+    border-radius: 8px;
+    height: 50px;
+    width: 52px;
+    font-size: 12px;
+    text-align: center;
+    background-color: aqua;
+
+}   
+
+table{
+    padding-left: 80px;
+    position: relative;
+    top: 90px;
+}
